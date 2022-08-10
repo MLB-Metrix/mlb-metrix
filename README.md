@@ -1,4 +1,4 @@
-hey there, call me metrix - just a dude trying to create cool things, probably (definitely) f'ing up along the way ✌️
+just a dude trying to create cool things, probably (definitely) f'ing up along the way ✌️
 
 <!---
 metrix1337/metrix1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
